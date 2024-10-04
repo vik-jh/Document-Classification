@@ -1,0 +1,5 @@
+Here is the libraries list used
+StreamLit
+LangChain
+PyPDF2
+Transformers
